@@ -19,7 +19,7 @@ RESET="\033[0m"
 BACKUP_ROOT="$PWD/.renameku_backups"
 
 clear
-echo -e "${BLUE}You Entered RenameKu - Project (PRO+)${RESET}"
+echo -e "${BLUE}You Entered RenameKu - Project${RESET}"
 echo ""
 
 # Ensure backup root exists
